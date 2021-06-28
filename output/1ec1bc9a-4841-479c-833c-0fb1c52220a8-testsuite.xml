@@ -1,0 +1,172 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1624887313175' stop='1624887348180'>
+    <name>Verify_email_test1:</name>
+    <title>Verify_email_test1:</title>
+    <test-cases>
+        <test-case start='1624887313177' status='passed' stop='1624887347864'>
+            <name>verify_email_test_tc1</name>
+            <title>verify_email_test_tc1</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1624887314290' status='passed' stop='1624887315268'>
+                    <name>I am on page "/"</name>
+                    <title>I am on page "/"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887315268' status='passed' stop='1624887316319'>
+                    <name>I wait for clickable "//input[@id='io-ox-login-username']"</name>
+                    <title>I wait for clickable "//input[@id='io-ox-login-username']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887316319' status='passed' stop='1624887317299'>
+                    <name>I fill field "//input[@id='io-ox-login-username']", "applause86@applause.ox"</name>
+                    <title>I fill field "//input[@id='io-ox-login-username']", "applause86@applause.ox"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887317299' status='passed' stop='1624887318028'>
+                    <name>I fill field "//input[@id='io-ox-login-password']", "1ArBuO61"</name>
+                    <title>I fill field "//input[@id='io-ox-login-password']", "1ArBuO61"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887318028' status='passed' stop='1624887318418'>
+                    <name>I uncheck option "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[6]/div[1]/div[1]/label[1]/i[1]"</name>
+                    <title>I uncheck option "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[6]/div[1]/div[1]/label[1]/i[1]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887318419' status='passed' stop='1624887318820'>
+                    <name>I wait for clickable "//button[@id='io-ox-login-button']", 5</name>
+                    <title>I wait for clickable "//button[@id='io-ox-login-button']", 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887318820' status='passed' stop='1624887319399'>
+                    <name>I click "//button[@id='io-ox-login-button']"</name>
+                    <title>I click "//button[@id='io-ox-login-button']"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887319399' status='passed' stop='1624887323353'>
+                    <name>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]/a[1]", 5</name>
+                    <title>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]/a[1]", 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887323354' status='passed' stop='1624887323740'>
+                    <name>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]/a[1]"</name>
+                    <title>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[1]/a[1]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887323740' status='passed' stop='1624887325966'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887325966' status='passed' stop='1624887327000'>
+                    <name>I fill field "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]", "applause86@qa.open-xchange.com"</name>
+                    <title>I fill field "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]", "applause86@qa.open-xchange.com"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887327001' status='passed' stop='1624887329204'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887329204' status='passed' stop='1624887329843'>
+                    <name>I fill field "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]/div[1]/input[1]", "Send Email Test."</name>
+                    <title>I fill field "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]/div[1]/input[1]", "Send Email Test."</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887329843' status='passed' stop='1624887332055'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887332055' status='passed' stop='1624887332434'>
+                    <name>I click "//body"</name>
+                    <title>I click "//body"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887332434' status='passed' stop='1624887332855'>
+                    <name>I type "Testing the Send Email Functionality."</name>
+                    <title>I type "Testing the Send Email Functionality."</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887332855' status='passed' stop='1624887335082'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887335082' status='passed' stop='1624887335436'>
+                    <name>I click "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[5]/div[1]/button[1]"</name>
+                    <title>I click "//body[1]/div[3]/div[5]/div[1]/div[2]/div[1]/div[5]/div[1]/button[1]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887335436' status='passed' stop='1624887336971'>
+                    <name>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[3]/ul[2]/li[2]", 10</name>
+                    <title>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[3]/ul[2]/li[2]", 10</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887336971' status='passed' stop='1624887337547'>
+                    <name>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[3]/ul[2]/li[2]"</name>
+                    <title>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[3]/ul[2]/li[2]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887337547' status='passed' stop='1624887337777'>
+                    <name>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[2]/div[1]/div[1]/div[2]/article[1]/section[6]", 5</name>
+                    <title>I wait for element "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[2]/div[1]/div[1]/div[2]/article[1]/section[6]", 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887337777' status='passed' stop='1624887337988'>
+                    <name>I grab text from "//body/div[@id='io-ox-core']/div[@id='io-ox-screens']/div[@id='io-ox-windowmanager']/div[@id='io-ox-windowmanager-pane']/div[@id='window-0']/div[1]/div[4]/div[3]/div[2]/div[1]/div[1]/div[2]/article[1]/section[6]/iframe[1]"</name>
+                    <title>I grab text from "//body/div[@id='io-ox-core']/div[@id='io-ox-screens']/div[@id='io-ox-windowmanager']/div[@id='io-ox-windowmanager-pane']/div[@id='window-0']/div[1]/div[4]/div[3]/div[2]/div[1]/div[1]/div[2]/article[1]/section[6]/iframe[1]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887337988' status='passed' stop='1624887343184'>
+                    <name>I wait 5</name>
+                    <title>I wait 5</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887343184' status='passed' stop='1624887345349'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887345349' status='passed' stop='1624887345672'>
+                    <name>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[5]/a[1]/i[1]"</name>
+                    <title>I click "//body[1]/div[3]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/div[2]/ul[1]/li[5]/a[1]/i[1]"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1624887345672' status='passed' stop='1624887347848'>
+                    <name>I wait 2</name>
+                    <title>I wait 2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
